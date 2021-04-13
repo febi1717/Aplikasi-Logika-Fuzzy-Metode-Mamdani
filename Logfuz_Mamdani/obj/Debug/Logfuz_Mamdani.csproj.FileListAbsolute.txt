@@ -1,0 +1,9 @@
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\bin\Debug\Logfuz_Mamdani.exe
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\bin\Debug\Logfuz_Mamdani.pdb
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.kasus1.resources
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.menu.resources
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.exe
+C:\Users\ASUS\Downloads\Logfuz_Mamdani\obj\Debug\Logfuz_Mamdani.pdb
